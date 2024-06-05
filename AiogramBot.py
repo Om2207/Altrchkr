@@ -20,7 +20,7 @@ import aiogram as ErrorsAiogram
 import aiohttp
 from Translate import Translate
 from urllib.parse import urlparse
-API_TOKEN = '5363458237:AAEhZ3L0sLpQavhNLvmKtVbqOhiGJNO6fDc'
+API_TOKEN = '6752585147:AAHD0ZaIyRsUQW4WxbiA1nx9jQz22bwaeuM'
 logging.basicConfig(level=logging.INFO)
 #log = logging.getLogger('broadcast')
 
